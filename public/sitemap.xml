@@ -5,34 +5,28 @@
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/the_tale_of_the_hasty_sparrow_and_the_angry_magpie/</loc>
-    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/docker/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/golang/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/kubernetes/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/lockfree/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/tech/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/masterthesis/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/tech/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>

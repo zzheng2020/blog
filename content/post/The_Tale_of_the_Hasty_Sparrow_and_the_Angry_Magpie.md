@@ -6,6 +6,7 @@ description: "When the storm passes, clarity remains. Here’s a story of haste,
 summary: "When the storm passes, clarity remains. Here’s a story of haste, chaos, and the surprising strength of truth."
 ShowToc: true
 TocOpen: false
+draft: true
 cover:
   image: "https://github.com/user-attachments/assets/65b05aee-0ca6-47db-bd3f-22404c91b445"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
